@@ -1,2 +1,6 @@
-private.txt
-todo.txt
+# ignore all .o .obj .exe#ignore all .exe files
+*.exe
+*.o
+*.obj
+
+
