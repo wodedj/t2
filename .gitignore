@@ -1,6 +1,8 @@
 # ignore all .o .obj .exe#ignore all .exe files
-*.exe
 *.o
 *.obj
+*.exe
 
+# ignore dj
+dj
 
